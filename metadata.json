@@ -1,0 +1,12 @@
+{
+  "name": "KinConnect - Family Messaging & Video Calling",
+  "description": "Family-first communication combining the best of Messenger and WhatsApp with one-on-one and group chats, multimedia sharing, HD voice/video calls, screen sharing, and senior-friendly navigation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
